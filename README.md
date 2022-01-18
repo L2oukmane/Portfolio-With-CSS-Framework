@@ -20,7 +20,7 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ammar-hamlaoui-514909189/)
 - Twitter: [@kuronomirou](https://twitter.com/kuronomirou)
 
-* **Alexander Oguzie-Ibeh** 
+👤 **Alexander Oguzie-Ibeh** 
 
 - GitHub: [github](https://github.com/harlexkhal)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/alexander-oguzie-ibeh-776814164)
