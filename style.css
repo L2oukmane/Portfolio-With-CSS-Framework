@@ -9,3 +9,7 @@
 .projects img {
   height: 200px;
 }
+
+.about_img img {
+	height: 120px !important;
+}
